@@ -1,0 +1,1124 @@
+using config file: config.fy3
+----------------------------------------------------------------------------
+∑Á‘∆¢Û£®À’÷›£© (MudOS v22b9) starting up on Linux - Wed Mar 18 19:47:09 1998
+
+
+Connected to address server on 202.102.28.60 port 6665
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 3333.
+System Error: flush_message: write:Connection timed out
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Connection timed out
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Connection timed out
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /u/chuenyu/xiaojuan2.c, object: /u/chuenyu/xiaojuan2#2359, file: /u/chuenyu/xiaojuan2.c:78
+'      followhim' in 'u/chuenyu/xiaojuan2.c' ('u/chuenyu/xiaojuan2#2359') /u/chuenyu/xiaojuan2.c:78
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Connection timed out
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/zhu#183, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('    d/fy/npc/zhu#183') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('    d/fy/npc/zhu#183') /std/char/npc.c:116
+'     <function>' in '          <function>' ('    d/fy/npc/zhu#183') 
+'    random_move' in '      std/char/npc.c' ('    d/fy/npc/zhu#183') /std/char/npc.c:130
+Heart beat in /d/fy/npc/zhu#183 turned off.
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/dtz#617, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('    d/fy/npc/dtz#617') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('    d/fy/npc/dtz#617') /std/char/npc.c:116
+'     <function>' in '          <function>' ('    d/fy/npc/dtz#617') 
+'    random_move' in '      std/char/npc.c' ('    d/fy/npc/dtz#617') /std/char/npc.c:130
+Heart beat in /d/fy/npc/dtz#617 turned off.
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/dtz#3850, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('   d/fy/npc/dtz#3850') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('   d/fy/npc/dtz#3850') /std/char/npc.c:116
+'     <function>' in '          <function>' ('   d/fy/npc/dtz#3850') 
+'    random_move' in '      std/char/npc.c' ('   d/fy/npc/dtz#3850') /std/char/npc.c:130
+Heart beat in /d/fy/npc/dtz#3850 turned off.
+System Error: flush_message: write:Connection timed out
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Connection timed out
+System Error: flush_message: write:Broken pipe
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#5128, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('       obj/user#5128') /std/char.c:110
+'         attack' in '    feature/attack.c' ('       obj/user#5128') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('       obj/user#5128') /feature/attack.c:61
+Heart beat in /obj/user#5128 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#5298, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('       obj/user#5298') /std/char.c:110
+'         attack' in '    feature/attack.c' ('       obj/user#5298') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('       obj/user#5298') /feature/attack.c:61
+Heart beat in /obj/user#5298 turned off.
+][1;34m°æœµÕ≥°ø¥Û–¶(Good)£∫∂œœﬂ¡À°£
+[2;37;0mget_user_data: read on fd 42
+System Error: get_user_data: read:Connection reset by peer
+Bad argument 1 to environment()
+Expected: object Got: 0.
+program: /u/taoguan/taoguan.c, object: /u/taoguan/taoguan, file: /u/taoguan/taoguan.c:159
+'      closedoor' in ' u/taoguan/taoguan.c' ('   u/taoguan/taoguan') /u/taoguan/taoguan.c:159
+get_user_data: read on fd 6
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/dtz#620, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('    d/fy/npc/dtz#620') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('    d/fy/npc/dtz#620') /std/char/npc.c:116
+'     <function>' in '          <function>' ('    d/fy/npc/dtz#620') 
+'    random_move' in '      std/char/npc.c' ('    d/fy/npc/dtz#620') /std/char/npc.c:130
+Heart beat in /d/fy/npc/dtz#620 turned off.
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('        obj/user#947') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('        obj/user#947') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('       obj/user#4864') /feature/command.c:39
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('       obj/user#4864') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('       obj/user#4864') /feature/command.c:39
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('       obj/user#4864') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('       obj/user#6459') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('       obj/user#6459') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('       obj/user#6459') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('       obj/user#6459') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('        obj/user#947') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('        obj/user#947') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('       obj/user#4864') /feature/command.c:39
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('       obj/user#4864') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('       obj/user#5578') /feature/command.c:39
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('       obj/user#5578') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('        obj/user#947') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('        obj/user#947') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('       obj/user#4864') /feature/command.c:39
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('       obj/user#4864') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('       obj/user#6459') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('       obj/user#6459') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('        obj/user#947') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('        obj/user#947') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#6456, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('       obj/user#6485') /feature/command.c:39
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('       obj/user#6485') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#6456') /obj/npc/zombie.c:49
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 35
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#8248, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('        obj/user#947') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('        obj/user#947') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#8248') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#8248, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('        obj/user#947') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('        obj/user#947') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' (' obj/npc/zombie#8248') /obj/npc/zombie.c:49
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/dtz#617, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('    d/fy/npc/dtz#617') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('    d/fy/npc/dtz#617') /std/char/npc.c:116
+'     <function>' in '          <function>' ('    d/fy/npc/dtz#617') 
+'    random_move' in '      std/char/npc.c' ('    d/fy/npc/dtz#617') /std/char/npc.c:130
+Heart beat in /d/fy/npc/dtz#617 turned off.
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/song#199, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('   d/fy/npc/song#199') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('   d/fy/npc/song#199') /std/char/npc.c:116
+'     <function>' in '          <function>' ('   d/fy/npc/song#199') 
+'    random_move' in '      std/char/npc.c' ('   d/fy/npc/song#199') /std/char/npc.c:130
+Heart beat in /d/fy/npc/song#199 turned off.
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 35
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 35
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 35
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 35
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 6
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 10
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 24
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 45
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 10
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 18
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 21
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/dtz#614, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('    d/fy/npc/dtz#614') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('    d/fy/npc/dtz#614') /std/char/npc.c:116
+'     <function>' in '          <function>' ('    d/fy/npc/dtz#614') 
+'    random_move' in '      std/char/npc.c' ('    d/fy/npc/dtz#614') /std/char/npc.c:130
+Heart beat in /d/fy/npc/dtz#614 turned off.
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 35
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 42
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 50
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 19
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 19
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 57
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 41
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 21
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 48
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 7
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 6
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 30
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 46
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 24
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 24
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 56
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 18
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 19
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 44
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 21
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/dtz#614, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('    d/fy/npc/dtz#614') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('    d/fy/npc/dtz#614') /std/char/npc.c:116
+'     <function>' in '          <function>' ('    d/fy/npc/dtz#614') 
+'    random_move' in '      std/char/npc.c' ('    d/fy/npc/dtz#614') /std/char/npc.c:130
+Heart beat in /d/fy/npc/dtz#614 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#20823, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#20823') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#20823') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#20823') /feature/attack.c:61
+Heart beat in /obj/user#20823 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#21180, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#21180') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#21180') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#21180') /feature/attack.c:61
+Heart beat in /obj/user#21180 turned off.
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 47
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/zhu#9709, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('   d/fy/npc/zhu#9709') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('   d/fy/npc/zhu#9709') /std/char/npc.c:116
+'     <function>' in '          <function>' ('   d/fy/npc/zhu#9709') 
+'    random_move' in '      std/char/npc.c' ('   d/fy/npc/zhu#9709') /std/char/npc.c:130
+Heart beat in /d/fy/npc/zhu#9709 turned off.
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 55
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#22111, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#22111') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#22111') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#22111') /feature/attack.c:61
+Heart beat in /obj/user#22111 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#21188, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#21188') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#21188') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#21188') /feature/attack.c:61
+Heart beat in /obj/user#21188 turned off.
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 62
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 71
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 54
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 54
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 59
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#22874, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#22874') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#22874') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#22874') /feature/attack.c:61
+Heart beat in /obj/user#22874 turned off.
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 42
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 73
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 50
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 55
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 53
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 45
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection timed out
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/badguy#24877, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('d/fy/npc/badguy#24877') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('d/fy/npc/badguy#24877') /std/char/npc.c:116
+'     <function>' in '          <function>' ('d/fy/npc/badguy#24877') 
+'    random_move' in '      std/char/npc.c' ('d/fy/npc/badguy#24877') /std/char/npc.c:130
+Heart beat in /d/fy/npc/badguy#24877 turned off.
+call_other() couldn't find object
+program: /cmds/std/study.c, object: /cmds/std/study, file: /cmds/std/study.c:45
+'   command_hook' in '   feature/command.c' ('      obj/user#24927') /feature/command.c:43
+'           main' in '    cmds/std/study.c' ('      cmds/std/study') /cmds/std/study.c:45
+call_other() couldn't find object
+program: /cmds/std/study.c, object: /cmds/std/study, file: /cmds/std/study.c:45
+'   command_hook' in '   feature/command.c' ('      obj/user#24927') /feature/command.c:43
+'           main' in '    cmds/std/study.c' ('      cmds/std/study') /cmds/std/study.c:45
+get_user_data: read on fd 10
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 10
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 18
+System Error: get_user_data: read:No route to host
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 19
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 18
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 21
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 35
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#26899, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#26899') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#26899') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#26899') /feature/attack.c:61
+Heart beat in /obj/user#26899 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#27458, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#27458') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#27458') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#27458') /feature/attack.c:61
+Heart beat in /obj/user#27458 turned off.
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#28562, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('      obj/user#26266') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('      obj/user#26266') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' ('obj/npc/zombie#28562') /obj/npc/zombie.c:49
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /obj/npc/zombie.c, object: /obj/npc/zombie#28553, file: /obj/npc/zombie.c:49
+'   command_hook' in '   feature/command.c' ('      obj/user#26266') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('      obj/user#26266') /feature/move.c:97
+'           init' in '    obj/npc/zombie.c' ('obj/npc/zombie#28553') /obj/npc/zombie.c:49
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 22
+System Error: get_user_data: read:Network is unreachable
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 7
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#31359, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#31359') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#31359') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#31359') /feature/attack.c:61
+Heart beat in /obj/user#31359 turned off.
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/song#19774, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' (' d/fy/npc/song#19774') /std/char.c:114
+'           chat' in '      std/char/npc.c' (' d/fy/npc/song#19774') /std/char/npc.c:116
+'     <function>' in '          <function>' (' d/fy/npc/song#19774') 
+'    random_move' in '      std/char/npc.c' (' d/fy/npc/song#19774') /std/char/npc.c:130
+Heart beat in /d/fy/npc/song#19774 turned off.
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 7
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 6
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 44
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 44
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 10
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 41
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 35
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 42
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 19
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 30
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+closed external ports

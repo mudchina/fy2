@@ -1,0 +1,38 @@
+-n Driver came up: 
+Tue Mar  3 11:24:22 PST 1998
+-n Driver went down (exit code: 137): 
+Tue Mar  3 11:25:33 PST 1998
+-n Driver came up: 
+Tue Mar  3 11:25:33 PST 1998
+-n Driver came up: 
+Tue Mar  3 11:28:05 PST 1998
+-n Driver went down (exit code: 0): 
+Tue Mar  3 11:28:36 PST 1998
+-n Driver came up: 
+Tue Mar  3 11:28:37 PST 1998
+Driver came up: Wed Mar 11 01:31:54 CST 1998
+Driver went down (exit code: 0): Thu Mar 12 02:43:52 CST 1998
+Driver came up: Thu Mar 12 02:43:52 CST 1998
+Driver went down (exit code: 0): Thu Mar 12 09:37:00 CST 1998
+Driver came up: Thu Mar 12 09:37:01 CST 1998
+Driver went down (exit code: 0): Thu Mar 12 12:40:38 CST 1998
+Driver came up: Thu Mar 12 12:40:38 CST 1998
+Driver went down (exit code: 0): Fri Mar 13 05:15:38 CST 1998
+Driver came up: Fri Mar 13 05:15:38 CST 1998
+Driver went down (exit code: 0): Sat Mar 14 02:37:34 CST 1998
+Driver came up: Sat Mar 14 02:37:35 CST 1998
+Driver went down (exit code: 0): Mon Mar 16 08:27:46 CST 1998
+Driver came up: Mon Mar 16 08:27:47 CST 1998
+Driver went down (exit code: 0): Mon Mar 16 08:28:13 CST 1998
+Driver came up: Mon Mar 16 08:28:13 CST 1998
+Driver went down (exit code: 0): Mon Mar 16 08:28:24 CST 1998
+Driver came up: Mon Mar 16 08:28:24 CST 1998
+Driver went down (exit code: 0): Wed Mar 18 08:53:57 CST 1998
+Driver came up: Wed Mar 18 08:53:57 CST 1998
+Driver went down (exit code: 0): Wed Mar 18 08:54:20 CST 1998
+Driver came up: Wed Mar 18 08:54:20 CST 1998
+Driver went down (exit code: 0): Wed Mar 18 08:54:33 CST 1998
+Driver came up: Wed Mar 18 08:54:33 CST 1998
+Driver came up: Wed Mar 18 19:47:08 CST 1998
+Driver went down (exit code: 0): Fri Mar 20 01:30:02 CST 1998
+Driver came up: Fri Mar 20 01:30:02 CST 1998

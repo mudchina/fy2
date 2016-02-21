@@ -1,0 +1,2491 @@
+using config file: config.fy3
+----------------------------------------------------------------------------
+∑Á‘∆¢Û£®À’÷›£© (MudOS v22b9) starting up on Linux - Fri Mar 20 01:30:02 1998
+
+
+Connected to address server on 202.102.28.60 port 6665
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 3333.
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Connection timed out
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Connection timed out
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 7
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/zhu#345, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('    d/fy/npc/zhu#345') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('    d/fy/npc/zhu#345') /std/char/npc.c:116
+'     <function>' in '          <function>' ('    d/fy/npc/zhu#345') 
+'    random_move' in '      std/char/npc.c' ('    d/fy/npc/zhu#345') /std/char/npc.c:130
+Heart beat in /d/fy/npc/zhu#345 turned off.
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /u/chuenyu/xiaojuan2.c, object: /u/chuenyu/xiaojuan2#9335, file: /u/chuenyu/xiaojuan2.c:78
+'      followhim' in 'u/chuenyu/xiaojuan2.c' ('u/chuenyu/xiaojuan2#9335') /u/chuenyu/xiaojuan2.c:78
+get_user_data: read on fd 19
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 24
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 30
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /u/chuenyu/xiaojuan2.c, object: /u/chuenyu/xiaojuan2#9335, file: /u/chuenyu/xiaojuan2.c:78
+'      followhim' in 'u/chuenyu/xiaojuan2.c' ('u/chuenyu/xiaojuan2#9335') /u/chuenyu/xiaojuan2.c:78
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 46
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 46
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/mei#370, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('    d/fy/npc/mei#370') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('    d/fy/npc/mei#370') /std/char/npc.c:116
+'     <function>' in '          <function>' ('    d/fy/npc/mei#370') 
+'    random_move' in '      std/char/npc.c' ('    d/fy/npc/mei#370') /std/char/npc.c:130
+Heart beat in /d/fy/npc/mei#370 turned off.
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 30
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 6
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#16230, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#16230') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#16230') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#16230') /feature/attack.c:61
+Heart beat in /obj/user#16230 turned off.
+get_user_data: read on fd 42
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 42
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/song#579, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('   d/fy/npc/song#579') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('   d/fy/npc/song#579') /std/char/npc.c:116
+'     <function>' in '          <function>' ('   d/fy/npc/song#579') 
+'    random_move' in '      std/char/npc.c' ('   d/fy/npc/song#579') /std/char/npc.c:130
+Heart beat in /d/fy/npc/song#579 turned off.
+get_user_data: read on fd 45
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/zhu#12998, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('  d/fy/npc/zhu#12998') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('  d/fy/npc/zhu#12998') /std/char/npc.c:116
+'     <function>' in '          <function>' ('  d/fy/npc/zhu#12998') 
+'    random_move' in '      std/char/npc.c' ('  d/fy/npc/zhu#12998') /std/char/npc.c:130
+Heart beat in /d/fy/npc/zhu#12998 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#17072, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#17072') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#17072') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#17072') /feature/attack.c:61
+Heart beat in /obj/user#17072 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#18981, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#18981') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#18981') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#18981') /feature/attack.c:61
+Heart beat in /obj/user#18981 turned off.
+get_user_data: read on fd 50
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 42
+System Error: get_user_data: read:Connection reset by peer
+Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+program: /u/resort/npc/master2.c, object: /u/resort/npc/master2#277, file: /u/resort/npc/master2.c:160
+'     do_killing' in 'u/resort/npc/master2.c' ('u/resort/npc/master2#277') /u/resort/npc/master2.c:160
+Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+program: /u/resort/npc/master2.c, object: /u/resort/npc/master2#277, file: /u/resort/npc/master2.c:160
+'     do_killing' in 'u/resort/npc/master2.c' ('u/resort/npc/master2#277') /u/resort/npc/master2.c:160
+Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+program: /u/resort/npc/master2.c, object: /u/resort/npc/master2#277, file: /u/resort/npc/master2.c:149
+'     do_killing' in 'u/resort/npc/master2.c' ('u/resort/npc/master2#277') /u/resort/npc/master2.c:149
+Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+program: /u/resort/npc/master2.c, object: /u/resort/npc/master2#277, file: /u/resort/npc/master2.c:160
+'     do_killing' in 'u/resort/npc/master2.c' ('u/resort/npc/master2#277') /u/resort/npc/master2.c:160
+Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+program: /u/resort/npc/master2.c, object: /u/resort/npc/master2#277, file: /u/resort/npc/master2.c:149
+'     do_killing' in 'u/resort/npc/master2.c' ('u/resort/npc/master2#277') /u/resort/npc/master2.c:149
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 54
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 44
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 60
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 10
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 62
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 44
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 44
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 47
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 52
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 48
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 56
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 41
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 14
+System Error: get_user_data: read:Connection reset by peer
+][1;34m°æœµÕ≥°ø¥Û–¶(Good)£∫∂œœﬂ¡À°£
+[2;37;0mget_user_data: read on fd 40
+System Error: get_user_data: read:Network is unreachable
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 6
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/badguy#25516, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('d/fy/npc/badguy#25516') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('d/fy/npc/badguy#25516') /std/char/npc.c:116
+'     <function>' in '          <function>' ('d/fy/npc/badguy#25516') 
+'    random_move' in '      std/char/npc.c' ('d/fy/npc/badguy#25516') /std/char/npc.c:130
+Heart beat in /d/fy/npc/badguy#25516 turned off.
+get_user_data: read on fd 41
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 24
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#25702, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#25702') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#25702') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#25702') /feature/attack.c:61
+Heart beat in /obj/user#25702 turned off.
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/badguy#26987, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('d/fy/npc/badguy#26987') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('d/fy/npc/badguy#26987') /std/char/npc.c:116
+'     <function>' in '          <function>' ('d/fy/npc/badguy#26987') 
+'    random_move' in '      std/char/npc.c' ('d/fy/npc/badguy#26987') /std/char/npc.c:130
+Heart beat in /d/fy/npc/badguy#26987 turned off.
+get_user_data: read on fd 24
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 41
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/zhu#25912, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('  d/fy/npc/zhu#25912') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('  d/fy/npc/zhu#25912') /std/char/npc.c:116
+'     <function>' in '          <function>' ('  d/fy/npc/zhu#25912') 
+'    random_move' in '      std/char/npc.c' ('  d/fy/npc/zhu#25912') /std/char/npc.c:130
+Heart beat in /d/fy/npc/zhu#25912 turned off.
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#26982, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#26982') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#26982') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#26982') /feature/attack.c:61
+Heart beat in /obj/user#26982 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#27873, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#27873') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#27873') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#27873') /feature/attack.c:61
+Heart beat in /obj/user#27873 turned off.
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/mei#16835, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('  d/fy/npc/mei#16835') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('  d/fy/npc/mei#16835') /std/char/npc.c:116
+'     <function>' in '          <function>' ('  d/fy/npc/mei#16835') 
+'    random_move' in '      std/char/npc.c' ('  d/fy/npc/mei#16835') /std/char/npc.c:130
+Heart beat in /d/fy/npc/mei#16835 turned off.
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#27934, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#27934') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#27934') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#27934') /feature/attack.c:61
+Heart beat in /obj/user#27934 turned off.
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 37
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 51
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 25
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 41
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/mei#16835, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('  d/fy/npc/mei#16835') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('  d/fy/npc/mei#16835') /std/char/npc.c:116
+'     <function>' in '          <function>' ('  d/fy/npc/mei#16835') 
+'    random_move' in '      std/char/npc.c' ('  d/fy/npc/mei#16835') /std/char/npc.c:130
+Heart beat in /d/fy/npc/mei#16835 turned off.
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 50
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 48
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 50
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 52
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 51
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 48
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 27
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 21
+System Error: get_user_data: read:Network is unreachable
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/dtz#31023, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('  d/fy/npc/dtz#31023') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('  d/fy/npc/dtz#31023') /std/char/npc.c:116
+'     <function>' in '          <function>' ('  d/fy/npc/dtz#31023') 
+'    random_move' in '      std/char/npc.c' ('  d/fy/npc/dtz#31023') /std/char/npc.c:130
+Heart beat in /d/fy/npc/dtz#31023 turned off.
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: (none), object: (none), file: (none)
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /u/chuenyu/xiaojuan2.c, object: /u/chuenyu/xiaojuan2#36197, file: /u/chuenyu/xiaojuan2.c:78
+'      followhim' in 'u/chuenyu/xiaojuan2.c' ('u/chuenyu/xiaojuan2#36197') /u/chuenyu/xiaojuan2.c:78
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 38
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 36
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 45
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 61
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 53
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+An object was destructed at call of init()
+program: /feature/move.c, object: /obj/npc/trashcan#1844, file: /feature/move.c:97
+'   command_hook' in '   feature/command.c' ('      obj/user#39310') /feature/command.c:43
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:147
+'      follow_me' in '      feature/team.c' ('obj/npc/trashcan#1844') /feature/team.c:37
+'    follow_path' in '      feature/team.c' ('obj/npc/trashcan#1844') /feature/team.c:22
+'           main' in '       cmds/std/go.c' ('         cmds/std/go') /cmds/std/go.c:142
+'           move' in '      feature/move.c' ('obj/npc/trashcan#1844') /feature/move.c:97
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#42576, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#42576') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#42576') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#42576') /feature/attack.c:61
+Heart beat in /obj/user#42576 turned off.
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+Bad argument 1 to present()
+Expected: string or object Got: 0.
+program: /u/chuenyu/xiaojuan2.c, object: /u/chuenyu/xiaojuan2#36197, file: /u/chuenyu/xiaojuan2.c:78
+'      followhim' in 'u/chuenyu/xiaojuan2.c' ('u/chuenyu/xiaojuan2#36197') /u/chuenyu/xiaojuan2.c:78
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#43513, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#43513') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#43513') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#43513') /feature/attack.c:61
+Heart beat in /obj/user#43513 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#44185, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#44185') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#44185') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#44185') /feature/attack.c:61
+Heart beat in /obj/user#44185 turned off.
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 28
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 13
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 33
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 18
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 18
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 18
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#46433, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#46433') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#46433') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#46433') /feature/attack.c:61
+Heart beat in /obj/user#46433 turned off.
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 16
+System Error: get_user_data: read:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 47
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+program: /u/resort/npc/master2.c, object: /u/resort/npc/master2#277, file: /u/resort/npc/master2.c:160
+'     do_killing' in 'u/resort/npc/master2.c' ('u/resort/npc/master2#277') /u/resort/npc/master2.c:160
+Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+program: /u/resort/npc/master2.c, object: /u/resort/npc/master2#277, file: /u/resort/npc/master2.c:149
+'     do_killing' in 'u/resort/npc/master2.c' ('u/resort/npc/master2#277') /u/resort/npc/master2.c:149
+Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+program: /u/resort/npc/master2.c, object: /u/resort/npc/master2#277, file: /u/resort/npc/master2.c:149
+'     do_killing' in 'u/resort/npc/master2.c' ('u/resort/npc/master2#277') /u/resort/npc/master2.c:149
+Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+program: /u/resort/npc/master2.c, object: /u/resort/npc/master2#277, file: /u/resort/npc/master2.c:149
+'     do_killing' in 'u/resort/npc/master2.c' ('u/resort/npc/master2#277') /u/resort/npc/master2.c:149
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Network is unreachable
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 56
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 46
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 18
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 50
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 11
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 6
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 44
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 52
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/mei#40497, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('  d/fy/npc/mei#40497') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('  d/fy/npc/mei#40497') /std/char/npc.c:116
+'     <function>' in '          <function>' ('  d/fy/npc/mei#40497') 
+'    random_move' in '      std/char/npc.c' ('  d/fy/npc/mei#40497') /std/char/npc.c:130
+Heart beat in /d/fy/npc/mei#40497 turned off.
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/song#40493, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' (' d/fy/npc/song#40493') /std/char.c:114
+'           chat' in '      std/char/npc.c' (' d/fy/npc/song#40493') /std/char/npc.c:116
+'     <function>' in '          <function>' (' d/fy/npc/song#40493') 
+'    random_move' in '      std/char/npc.c' (' d/fy/npc/song#40493') /std/char/npc.c:130
+Heart beat in /d/fy/npc/song#40493 turned off.
+get_user_data: read on fd 39
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 46
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 6
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 6
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/dtz#40893, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('  d/fy/npc/dtz#40893') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('  d/fy/npc/dtz#40893') /std/char/npc.c:116
+'     <function>' in '          <function>' ('  d/fy/npc/dtz#40893') 
+'    random_move' in '      std/char/npc.c' ('  d/fy/npc/dtz#40893') /std/char/npc.c:130
+Heart beat in /d/fy/npc/dtz#40893 turned off.
+get_user_data: read on fd 31
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection timed out
+get_user_data: read on fd 32
+System Error: get_user_data: read:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+SIGPIPE received.
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 18
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 59
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 54
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 54
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 56
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 54
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 17
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+Bad argument 1 to living()
+Expected: object Got: 0.
+program: /d/tieflag/boat.c, object: /d/tieflag/boat, file: /d/tieflag/boat.c:86
+'          leave' in '    d/tieflag/boat.c' ('      d/tieflag/boat') /d/tieflag/boat.c:86
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#55296, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#55296') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#55296') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#55296') /feature/attack.c:61
+Heart beat in /obj/user#55296 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#55681, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#55681') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#55681') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#55681') /feature/attack.c:61
+Heart beat in /obj/user#55681 turned off.
+get_user_data: read on fd 14
+System Error: get_user_data: read:No route to host
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#55700, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#55700') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#55700') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#55700') /feature/attack.c:61
+Heart beat in /obj/user#55700 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#55996, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#55996') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#55996') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#55996') /feature/attack.c:61
+Heart beat in /obj/user#55996 turned off.
+get_user_data: read on fd 56
+System Error: get_user_data: read:Connection reset by peer
+Illegal to move or destruct an object defining actions from a verb function which returns zero.
+program: /std/char/npc.c, object: /d/fy/npc/dtz#40899, file: /std/char/npc.c:130
+'     heart_beat' in '          std/char.c' ('  d/fy/npc/dtz#40899') /std/char.c:114
+'           chat' in '      std/char/npc.c' ('  d/fy/npc/dtz#40899') /std/char/npc.c:116
+'     <function>' in '          <function>' ('  d/fy/npc/dtz#40899') 
+'    random_move' in '      std/char/npc.c' ('  d/fy/npc/dtz#40899') /std/char/npc.c:130
+Heart beat in /d/fy/npc/dtz#40899 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#56386, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#56386') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#56386') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#56386') /feature/attack.c:61
+Heart beat in /obj/user#56386 turned off.
+get_user_data: read on fd 26
+System Error: get_user_data: read:Connection timed out
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 43
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 8
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#56733, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#56733') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#56733') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#56733') /feature/attack.c:61
+Heart beat in /obj/user#56733 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#57086, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#57086') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#57086') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#57086') /feature/attack.c:61
+Heart beat in /obj/user#57086 turned off.
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 30
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 40
+System Error: get_user_data: read:Connection reset by peer
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#55292, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#55292') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#55292') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#55292') /feature/attack.c:61
+Heart beat in /obj/user#55292 turned off.
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:No route to host
+System Error: flush_message: write:Broken pipe
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 50
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 34
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 51
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 23
+System Error: get_user_data: read:Connection reset by peer
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#58936, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#58936') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#58936') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#58936') /feature/attack.c:61
+Heart beat in /obj/user#58936 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#59255, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#59255') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#59255') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#59255') /feature/attack.c:61
+Heart beat in /obj/user#59255 turned off.
+environment() of destructed object.
+program: /feature/attack.c, object: /obj/user#59272, file: /feature/attack.c:61
+'     heart_beat' in '          std/char.c' ('      obj/user#59272') /std/char.c:110
+'         attack' in '    feature/attack.c' ('      obj/user#59272') /feature/attack.c:162
+' clean_up_enemy' in '    feature/attack.c' ('      obj/user#59272') /feature/attack.c:61
+Heart beat in /obj/user#59272 turned off.

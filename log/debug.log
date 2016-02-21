@@ -1,0 +1,45 @@
+----------------------------------------------------------------------------
+·çÔÆÔÙÆð¢ò (MudOS v22pre11) starting up on Linux - Sun Aug 16 22:04:18 1998
+
+
+Connection to address server (192.0.5.31  3990) refused.
+
+Loading preloaded files ...
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+Initializations complete.
+
+Accepting connections on port 3333.
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+System Error: socket_write: sendto:Network is unreachable
+******** FATAL ERROR: Process interrupted
+MudOS driver attempting to exit gracefully.
+crash() in master called successfully.  Aborting.
